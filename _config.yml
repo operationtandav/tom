@@ -1,1 +1,6 @@
-remote_theme: pmarsceill/just-the-docs
+---
+exclude: ['README.markdown']
+permalink: ':title'
+pygments: true
+safe: false
+title: 'Carte'
