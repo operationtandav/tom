@@ -1,0 +1,35 @@
+html { 
+    /* background: url('./files/snow-background.jpg') no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #ffffff;
+    background-color: #000000;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+body {
+    text-align: justify;
+    text-justify: inter-word;
+    overflow-x: hidden;
+    position: absolute;
+    /* width: 100%; */
+    margin: 10px;
+    padding: 10px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 255.6), rgba(255, 255, 255, 0));
+}
+
+ul{
+    list-style-type: circle;
+}
+
+img{
+    display: inline-block;
+    width: 100%;
+}
