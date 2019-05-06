@@ -1,4 +1,4 @@
-# www.robotstxt.org/
+# http://www.robotstxt.org/robotstxt.html
 # Full throttle and traction
 User-agent: *
 Disallow:
